@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Work+smarter%2C+not+harder+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=326CE5&center=true&vCenter=true&random=false&width=435&lines=Work+smarter%2C+not+harder+%F0%9F%A4%A1)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&labelColor=black&color=%233776AB) ![Static Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&labelColor=black&color=%23003B57)
 
