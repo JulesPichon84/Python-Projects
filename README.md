@@ -78,6 +78,8 @@ Puis exécuter la commande suivante:
    python setup.py build
   ```
 
+<br>
+
 Volume horaire total:
 
 | Tâches  | Heures |
@@ -87,6 +89,8 @@ Volume horaire total:
 | Liaison du GUI aux Scripts | X |
 | Rédaction documentation| X |
 | Total | X |
+
+<br>
 
 Roadmap des tâches:
 
@@ -99,17 +103,20 @@ Roadmap des tâches:
 - [ ] Création d'un Dokerfile en cours mais problème au moment d'exécuté le conteneur. Non prise en charge de tkinter de façon native.
 - [ ] Bonus: Ajouter une étape de sécurité avant de lancer le programme.
 
+<br>
+
 > [!TIP]
 > Si vous souhaitez effectuer vos propres personnalisations, voici des liens utiles menant vers la documentation des modules que j'ai utilisé pour les projets:
 >  - Visit https://seaborn.pydata.org/index.html
 >  - Visit https://matplotlib.org/stable/tutorials/pyplot.html
->  - https://numpy.org/doc/stable/
->  - https://scapy.readthedocs.io/en/latest/
->  - https://pandas.pydata.org/docs/index.html
->  - https://docs.scipy.org/doc/scipy/
->  - https://requests.readthedocs.io/en/latest/
->  - https://scrapy.org/
+>  - Visit https://numpy.org/doc/stable/
+>  - Visit https://scapy.readthedocs.io/en/latest/
+>  - Visit https://pandas.pydata.org/docs/index.html
+>  - Visit https://docs.scipy.org/doc/scipy/
+>  - Visit https://requests.readthedocs.io/en/latest/
+>  - Visit https://scrapy.org/
 
+<br>
 
 > [!WARNING]
 > Si vous rencontrez des problèmes avec les programmes, vous pouvez m'envoyer un message !
